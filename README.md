@@ -4,6 +4,8 @@
 
 O App tem a funcionalidade de adicionar Nomes (textos), salvando o estado do componente e na mesma página, é adicionado o nome c/ o horário em que foi criado.
 
+Projeto em produção: https://applistadepresenca.vercel.app/
+
 ## Tecnologias
 
 Foi utilizado na aplicação o ReactJS inicializado com o Vite, por motivos de ter um projeto mais clean e arquivos necessários.
