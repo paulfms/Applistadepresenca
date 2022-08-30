@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 
 import "./styles.css";
-import { Card } from "../../components/Card";
+import { Card } from "../../Components/Card";
 
 export function Home() {
   const [studentName, setStudentName] = useState("");
